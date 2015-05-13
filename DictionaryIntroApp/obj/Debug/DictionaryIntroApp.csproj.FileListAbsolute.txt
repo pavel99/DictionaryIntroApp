@@ -1,0 +1,9 @@
+C:\Users\BITM Trainer - 301\Desktop\SEIP Project (.NET)\Batch 04\20.04.2015\DictionaryIntroApp\DictionaryIntroApp\bin\Debug\DictionaryIntroApp.exe.config
+C:\Users\BITM Trainer - 301\Desktop\SEIP Project (.NET)\Batch 04\20.04.2015\DictionaryIntroApp\DictionaryIntroApp\bin\Debug\DictionaryIntroApp.exe
+C:\Users\BITM Trainer - 301\Desktop\SEIP Project (.NET)\Batch 04\20.04.2015\DictionaryIntroApp\DictionaryIntroApp\bin\Debug\DictionaryIntroApp.pdb
+C:\Users\BITM Trainer - 301\Desktop\SEIP Project (.NET)\Batch 04\20.04.2015\DictionaryIntroApp\DictionaryIntroApp\obj\Debug\DictionaryIntroApp.csprojResolveAssemblyReference.cache
+C:\Users\BITM Trainer - 301\Desktop\SEIP Project (.NET)\Batch 04\20.04.2015\DictionaryIntroApp\DictionaryIntroApp\obj\Debug\DictionaryIntroApp.exe
+C:\Users\BITM Trainer - 301\Desktop\SEIP Project (.NET)\Batch 04\20.04.2015\DictionaryIntroApp\DictionaryIntroApp\obj\Debug\DictionaryIntroApp.pdb
+E:\SEIP Training\ClassVidios\20.04.2015\DictionaryIntroApp\DictionaryIntroApp\bin\Debug\DictionaryIntroApp.exe.config
+E:\SEIP Training\ClassVidios\20.04.2015\DictionaryIntroApp\DictionaryIntroApp\obj\Debug\DictionaryIntroApp.exe
+E:\SEIP Training\ClassVidios\20.04.2015\DictionaryIntroApp\DictionaryIntroApp\obj\Debug\DictionaryIntroApp.pdb
